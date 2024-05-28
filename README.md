@@ -3,6 +3,8 @@
 
 - <b>Azure / Cloud Projects </b>
   - [Creating a Live Soc / HoneyNet in Azure ](https://github.com/ramilnamazov/Azure-Soc.git)
+- <b> AtomicRed / ACtive Directory  Projects </b>
+  - [Creating a Active Directory, Splunk  /Bruteforce with AtomicRed ]([https://github.com/ramilnamazov/Azure-Soc.git](https://github.com/ramilnamazov/Atomic-Red-Project-))
 
 
 <h2> 🤳 Connect with me:</h2>
