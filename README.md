@@ -20,6 +20,8 @@ Motivated Help Desk professional with a solid foundation in technical support an
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ramilnamazov/Azure-Soc.git"> Lab</a>|
 | Splunk  Implementation     | <a href="https://github.com/ramilnamazov/Atomic-Red-Project-"> Lab</a>|
 | Active Directory     | <a href="https://github.com/ramilnamazov/Atomic-Red-Project-"> Lab</a>|
+| Python Password Generator     | <a href="https://github.com/ramilnamazov/PythonPasswordGenerator/tree/main"> Lab</a>|
+
 
 
 
